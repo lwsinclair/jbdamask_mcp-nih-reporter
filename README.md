@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-jbdamask-mcp-nih-reporter-badge.png)](https://mseep.ai/app/mcp-mirror-jbdamask-mcp-nih-reporter)
+
 # NIH RePORTER MCP
 
 A Model Context Protocol [(MCP)](https://modelcontextprotocol.io/introduction) server for chatting with [NIH RePORTER](https://reporter.nih.gov/). Search for NIH-funded research projects and publications in a conversational manner.
